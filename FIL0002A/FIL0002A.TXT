@@ -1,0 +1,35 @@
+ DOS     .SYS 037             
+ DUP     .SYS 042             
+*AUTORUN .SYS 008             
+*PASCAL  .OBJ 074             
+*COMPILER.PCD 181             
+*EDITOR  .PCD 045             
+*EDITOR  .PAS 003             
+*EDITOR1 .PAS 011             
+*EDITOR2 .PAS 011             
+*EDITOR3 .PAS 009             
+*EDITOR4 .PAS 008             
+*EDITOR5 .PAS 008             
+*EDITOR6 .PAS 011             
+*EDITOR7 .PAS 010             
+*INIT    .PCD 021             
+*INIT    .PAS 031             
+*EXPLNERR.PCD 005             
+*RSVDWRDS.TXT 006             
+*ERRORS  .TXT 008             
+*ASOFDATE.TXT 001             
+ SAMPLE1 .PAS 004             
+ SAMPLE2 .PAS 006             
+*SETUPD8 .PAS 010             
+*SETUPD8 .PCD 004             
+*COPYFILE.OBJ 001             
+*COPYLIST.TXT 001             
+ RAMDISK .COM 009             
+         .PAS 001             
+ SAMPLE1 .PCD 003             
+ PROGRAM .    001             
+ PROGRAM .BLA 001             
+ BLACKY  .PAS 001             
+ BLACKY  .PCD 001             
+ AND     .    132             
+ SAMPLE2 .PCD 001             

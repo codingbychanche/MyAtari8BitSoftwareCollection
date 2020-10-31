@@ -1,0 +1,34 @@
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: Basic_Prg.ATR
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 628
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	DOS     .SYS	4	37	4625	F#!
+1	NU2	DUP     .SYS	41	42	4591	F#!	Size!
+2	#N	GROCHAR .CHS	83	8	999	F#!
+3	#N	GROGAME .BAS	91	69	8486	F#!	Size!
+4	#N	ZEDITOR .BAS	160	39	500	F#!	Size!
+5	#N	BARCHIV .BAS	199	37	4533	F#!
+6	#N	BUCHDAT .FIL	236	30	4431	F#!	Size!
+7	#N	OTTOPMG .UTL	266	8	1525	F#!	Size!
+8	#N	HEXTODEZ.UTL	274	5	525	F#!
+9	#N	SCROLL  .UTL	279	5	528	F#!
+10	#N	PICSAVE .UTL	284	12	1501	F#!	Size!
+11	#N	TEST    .   	296	1	1	OK
+12	#N	TEXTGRA .UTL	297	10	710	F#!	Size!
+13	#N	VARDUMP .UTL	307	4	431	OK
+14	#N	OLDMCDO .SOU	311	5	527	F#!
+15	#N	DIROUT  .UTL	316	5	509	F#!
+16	NU2	GROCHAR .CHS	311	8	527	F#!	Size!
+17	NU2	GROGAME .BAS	319	69	134	F#!	Size!
+18	NU2	BARCHIV .BAS	491	37	1504	F#!	Size!
+19	NU2	BUCHDAT .FIL	528	30	3678	F#!
+20	NU2	ZEDITOR .UTL	558	39	19	F#!	Size!

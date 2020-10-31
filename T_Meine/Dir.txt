@@ -1,0 +1,23 @@
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: T_Meine/T_MEINE.ATR
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 260
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	DOS     .SYS	4	39	4875	OK
+1	NU2	DUP     .SYS	43	76	9470	OK
+2	NU2	AUTORUN .SYS	119	94	11681	OK
+3	NU2	WRITER  .COM	213	132	16474	OK
+4	NU2	USEPRG  .TXT	345	3	279	OK
+5	NU2	BRIEF   .TXT	348	14	1664	OK
+6	NU2	MENUE   .TXT	371	4	427	OK
+7	NU2	DBBRIEF .TXT	375	2	194	OK
+8	NU2	SCHULE  .TXT	377	32	3911	OK
+9	NU2	SCHULE2 .TXT	409	51	6343	OK

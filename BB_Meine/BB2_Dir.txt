@@ -1,0 +1,24 @@
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: BB_Meine/BB2MEINE.ATR
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 0
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	KONG    .BAS	4	158	19689	OK
+1	NU2	DASHPRG .BAS	162	82	10155	OK
+2	NU2	DASH    .   	244	80	9982	OK
+3	NU2	DOS     .SYS	324	37	4625	OK
+4	NU2	SNAKE   .BAS	370	32	3990	OK
+5	NU2	AUTORUN .SYS	412	2	148	OK
+6	NU2	MENU    .   	414	17	2046	OK
+7	NU2	ISLAND  .BAS	431	147	18318	OK
+8	NU2	PRGDAT  .BAS	578	57	7088	OK
+9	NOU2	DISKDAT .FIL	635	0	9000	F#!	Size!
+10	NU2	MOP     .BAS	402	15	1250	F#!	Size!

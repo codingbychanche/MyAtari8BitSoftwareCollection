@@ -1,0 +1,104 @@
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: Demos_Seite_1.atr
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 0
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	DOS     .SYS	4	77	9625	OK
+1	NU2	DUP     .SYS	41	42	5126	OK
+2	NU2	FUJI    .COM	123	113	14125	OK
+3	NU2	CES86   .COM	236	221	27624	OK
+4	NU2	SYTHE   .COM	466	235	29321	OK
+5	NU2	OSLOAD  .COM	701	19	750	F#!	Size!
+6	#N	BUCHDAT .FIL	236	30	27624	F#!	Size!
+7	#N	OTTOPMG .UTL	266	8	23874	F#!	Size!
+8	#N	HEXTODEZ.UTL	274	5	22874	F#!	Size!
+9	#N	SCROLL  .UTL	279	5	22249	F#!	Size!
+10	#N	PICSAVE .UTL	284	12	21624	F#!	Size!
+11	#N	TEST    .   	296	1	20124	F#!	Size!
+12	#N	TEXTGRA .UTL	297	10	19999	F#!	Size!
+13	#N	VARDUMP .UTL	307	4	18749	F#!	Size!
+14	#N	OLDMCDO .SOU	311	5	18249	F#!	Size!
+15	#N	DIROUT  .UTL	316	5	17624	F#!	Size!
+16	#N	RENUMB  .UTL	321	6	16999	F#!	Size!
+17	#N	STOPUHR .BAS	327	7	16249	F#!	Size!
+18	#N	PMLOCAT .BAS	334	23	15374	F#!	Size!
+19	#N	SYSTIM2 .SOR	357	2	12499	F#!	Size!
+20	#N	SYSTIM2 .BAS	359	5	12249	F#!	Size!
+21	#N	SYSTIM2 .OBJ	373	1	11624	F#!	Size!
+22	#N	INTZAEL .BAS	374	6	11499	F#!	Size!
+23	#N	MSLSCAL .UTL	380	9	10749	F#!	Size!
+24	#N	OXYGENE .SOU	389	17	9624	F#!	Size!
+25	#N	STREICH .BAS	406	13	7499	F#!	Size!
+26	#N	FILL    .UTL	419	6	5874	F#!	Size!
+27	#N	INTFARB .BAS	425	5	5124	F#!	Size!
+28	#N	LOTTO   .BAS	430	18	4499	F#!	Size!
+29	#N	COPY32  .COM	448	56	2249	F#!	Size!
+30	#N	CHK4ERR .SRC	504	48	24571	F#!	Size!
+31	#N	DIR     .COM	552	7	18571	F#!	Size!
+32	#N	PACKER  .BAS	559	27	17696	F#!	Size!
+33	#N	SPOOKY  .BAS	586	10	14321	F#!	Size!
+34	#N	TCOPY   .BAS	596	22	13071	F#!	Size!
+35	#N	USCOPY4 .COM	618	40	10321	F#!	Size!
+36	#N	PACKER  .CTB	658	25	5321	F#!	Size!
+37	#N	VIDEOTIT.BAS	683	8	2196	F#!	Size!
+38	#N	TRANS   .BAS	691	10	1196	F#!
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: Demos_Seite_2.atr
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 339
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	DOS     .SYS	4	37	4625	OK
+1	NU2	DUP     .SYS	41	42	5126	OK
+2	NU2	KOALA   .COM	83	132	16461	OK
+3	NU2	GRAHAM  .PIC	215	23	2840	OK
+4	NU2	PETER   .PIC	238	20	2468	OK
+5	NU2	REDMAN  .PIC	258	22	2654	OK
+6	NU2	PFERD   .PIC	280	29	3526	OK
+7	NU2	ENT2    .PIC	309	8	940	OK
+8	NU2	EIERUHR .PIC	317	7	812	OK
+9	NOU2	T       .PIC	324	0	5514	F#!	Size!
+10	#N	MEM     .SAV	324	45	5514	OK
+11	#N	TEST    .   	296	1	1526	F#!	Size!
+12	#N	TEXTGRA .UTL	297	10	1401	F#!	Size!
+13	#N	VARDUMP .UTL	307	4	151	F#!	Size!
+14	#N	OLDMCDO .SOU	311	5	690	F#!	Size!
+15	#N	DIROUT  .UTL	316	5	65	F#!	Size!
+16	#N	RENUMB  .UTL	321	6	312	F#!	Size!
+17	#N	STOPUHR .BAS	327	7	5139	F#!	Size!
+18	#N	PMLOCAT .BAS	334	23	4264	F#!	Size!
+19	#N	SYSTIM2 .SOR	357	2	1389	F#!	Size!
+20	#N	SYSTIM2 .BAS	359	5	1139	F#!	Size!
+21	#N	SYSTIM2 .OBJ	373	1	514	F#!	Size!
+22	#N	INTZAEL .BAS	374	6	389	F#!	Size!
+23	#N	MSLSCAL .UTL	380	9	1116	OK
+24	#N	OXYGENE .SOU	389	17	2023	OK
+25	#N	STREICH .BAS	406	13	1514	OK
+26	#N	FILL    .UTL	419	6	715	OK
+27	#N	INTFARB .BAS	425	5	578	OK
+28	#N	LOTTO   .BAS	430	18	2193	OK
+29	#N	COPY32  .COM	448	56	6879	OK
+30	NU2	CHK4ERR .SRC	504	48	6000	OK
+31	#N	DIR     .COM	552	7	769	OK
+32	#N	PACKER  .BAS	559	27	3349	OK
+33	#N	SPOOKY  .BAS	586	10	1176	OK
+34	#N	TCOPY   .BAS	596	22	2698	OK
+35	#N	USCOPY4 .COM	618	40	4985	OK
+36	#N	PACKER  .CTB	658	25	3015	OK
+37	#N	VIDEOTIT.BAS	683	8	930	OK
+38	#N	TRANS   .BAS	691	10	1157	OK

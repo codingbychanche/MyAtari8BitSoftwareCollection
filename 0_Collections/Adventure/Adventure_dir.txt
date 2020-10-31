@@ -1,0 +1,52 @@
+
+atdir V2.8 // 1.12.2017
+
+Made by retrozock
+www.retrozock.com
+
+------------------------------------------------------------------------
+Image file: Adventure.atr
+
+# of useable data sectors on disk/ unused data sectors on disk:707/ 117
+
+FN	Stat	Filename	Start	#Sect.	#Bytes	Sector chain
+---	------	---------------	-----	------	------	------------
+0	NU2	DOS     .SYS	4	37	4625	OK
+1	NU2	DUP     .SYS	41	76	9470	OK
+2	NU2	ADV     .BAK	83	52	6396	OK
+3	NU2	ADM     .BAK	135	11	1356	OK
+4	NU2	GRDAT   .BAS	146	13	1534	OK
+5	NU2	FIN     .BAK	159	35	4366	OK
+6	NU2	CA      .BAK	194	18	2192	OK
+7	NU2	MONSTER .LST	212	3	307	OK
+8	NU2	PICMAKE .UTL	215	26	3149	OK
+9	NU2	DATACON .LST	241	6	744	OK
+10	NU2	GRAFIK  .LST	247	67	8354	OK
+11	NU2	PMLR2   .OBJ	314	7	808	OK
+12	NU2	GDATA   .LST	321	65	8019	OK
+13	NU2	BOOT    .HLP	395	3	252	OK
+14	NU2	PMVBI   .LST	398	7	808	OK
+15	NU2	NBASIC  .BAS	439	18	2130	OK
+16	NU2	BSAVER  .BAS	457	7	773	OK
+17	NU2	KALEIDO .BAS	464	23	2867	OK
+18	NU2	LISTING .BAS	487	50	6207	OK
+19	NU2	ATLANTS .BAS	509	66	8174	OK
+20	#N	NIMITZ  .CTB	575	9	3457	F#!	Size!
+21	#N	HERBERT .CTB	584	136	2332	F#!	Size!
+22	#N	INTZAEL .BAS	374	6	2519	F#!	Size!
+23	#N	MSLSCAL .UTL	380	9	1769	F#!	Size!
+24	#N	OXYGENE .SOU	389	17	644	F#!	Size!
+25	#N	STREICH .BAS	406	13	4095	F#!	Size!
+26	#N	FILL    .UTL	419	6	2470	F#!	Size!
+27	#N	INTFARB .BAS	425	5	1720	F#!	Size!
+28	#N	LOTTO   .BAS	430	18	1095	F#!	Size!
+29	#N	COPY32  .COM	448	56	1005	F#!	Size!
+30	#N	CHK4ERR .SRC	504	48	4082	F#!	Size!
+31	#N	DIR     .COM	552	7	2799	F#!	Size!
+32	#N	PACKER  .BAS	559	27	1924	F#!	Size!
+33	#N	SPOOKY  .BAS	586	10	2082	F#!	Size!
+34	#N	TCOPY   .BAS	596	22	832	F#!	Size!
+35	#N	USCOPY4 .COM	618	40	11125	F#!	Size!
+36	#N	PACKER  .CTB	658	25	6125	F#!	Size!
+37	#N	VIDEOTIT.BAS	683	8	3000	F#!	Size!
+38	#N	TRANS   .BAS	691	10	2000	F#!	Size!
