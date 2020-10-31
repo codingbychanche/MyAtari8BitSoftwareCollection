@@ -6,10 +6,9 @@ Feel free to browse through.
 Index
 -----
 ATRImageDirectorys	
-			All directorys of all disks in this collection
+	All directorys of all disks in this collection
 
 AllAtrFiles
-			A file list of all the disk- image files in this collection
-			This file can be used as input for my 'atdump'- tool to create
-			a set of executable '*.xex' files. Works for most of the
-			machine language files contained in this collection.
+	A file list of all the disk- image files in this collection						This file can be used as input for my 'atdump'- tool to create
+	a set of executable '*.xex' files. Works for most of the
+	machine language files contained in this collection.
