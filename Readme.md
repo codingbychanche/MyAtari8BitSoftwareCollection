@@ -14,5 +14,5 @@ This file can be used as input for my 'atdump'- tool to create	a set of executab
 
 Above mentioned tool and mor (e.g. show and analyze the directory of a dos 2.x disk) can be found here:
 
-[Example app mainActivity](https://github.com/codingbychanche/Read-ATR)
+[Read- ATR tool- chain](https://github.com/codingbychanche/Read-ATR)
 
