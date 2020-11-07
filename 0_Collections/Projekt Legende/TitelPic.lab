@@ -1,0 +1,6 @@
+mads 1.9.3
+Label table:
+00	A80A	L
+00	000F	DC8
+00	A80D	DLIST8
+00	A8A3	SCREEN
