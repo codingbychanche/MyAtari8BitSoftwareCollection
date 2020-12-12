@@ -1,7 +1,9 @@
 My Stuff from the 80'
 ---------------------
 Things I have done with my Atari 8_Bit computer. Games, texts, pictures, type in listings etc.
-Feel free to browse through.
+Feel free to browse.
+
+A good way to start is the [0_Collections](https://github.com/codingbychanche/MyAtari8BitSoftwareCollection/tree/master/0_Collections) folder which contains some examples.
 
 Index
 -----
